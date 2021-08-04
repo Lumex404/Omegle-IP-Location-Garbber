@@ -9,7 +9,7 @@ Replace the apiKey in the 25th Line of the code with your API key.
 Replace in the same line (25) the ip with your IP address.
 
 !! DO NOT USE FOR MALICOUS PURPOSES !!
-
+Only entertainment and educational purposes only!
 
 How to use it:
 1. Open omegle.com
